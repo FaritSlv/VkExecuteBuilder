@@ -1,6 +1,8 @@
 {
     "name": "FaritSlv/vk-execute-builder",
     "description": "Vk Execute Builder with vk php sdk",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "n0tm",
