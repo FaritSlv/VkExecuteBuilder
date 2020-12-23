@@ -1,5 +1,5 @@
 {
-    "name": "FaritSlv/vk-execute-builder",
+    "name": "farit-slv/vk-execute-builder",
     "description": "Vk Execute Builder with vk php sdk",
     "type": "library",
     "license": "MIT",
