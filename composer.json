@@ -1,5 +1,5 @@
 {
-    "name": "notm/vk-execute-builder",
+    "name": "FaritSlv/vk-execute-builder",
     "description": "Vk Execute Builder with vk php sdk",
     "authors": [
         {
@@ -8,11 +8,10 @@
         }
     ],
     "require": {
-        "vkcom/vk-php-sdk": "^5.100",
+        "vkcom/vk-php-sdk": "^5.101",
         "monolog/monolog": "^1.24",
-      "ext-json": "*"
+        "ext-json": "*"
     },
-
     "autoload": {
         "psr-4": {"SMITExecute\\Library\\": "src/"}
     }
